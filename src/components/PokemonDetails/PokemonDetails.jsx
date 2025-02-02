@@ -25,4 +25,5 @@ console.log(singlePokemon)
     )
 }
 
+
 export default PokemonDetails;
